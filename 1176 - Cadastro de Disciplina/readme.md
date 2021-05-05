@@ -12,14 +12,14 @@ Exemplo de Struct C#
 
 class xyz{  
   public struct Pessoa{  
-    public string nome;  
-    public double peso,altura;  
-    public int idade;  
+  public string nome;  
+  public double peso,altura;  
+  public int idade;  
   }  
 
-  public static void Main()  
+public static void Main(){  
   {  
-       .....  
+    .....  
   }  
 }  
 
