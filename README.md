@@ -1,4 +1,4 @@
-# URI-POO
+# URI-POO_Mozar
 
 Alguns exercicios do uri resolvidos em C++, problemas feitos pelo professor <a href="https://github.com/mozaru">Mozar</a>
 
