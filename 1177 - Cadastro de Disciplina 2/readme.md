@@ -38,7 +38,7 @@ Primeiro mostra-se o menu, e depois depende da opção que o usuário escolher
 ### Menu
 
 Mostra o menu de opções: "1 - ler dados da disciplina", "2 - mostrar os dados da disciplina" e "3 - sair".  
-OBS: Caso seja digitado um numero inválido, menor que 1 ou maior que 3, o menu deverá ser apresentado novamente.  
+**OBS: Caso seja digitado um numero inválido, menor que 1 ou maior que 3, o menu deverá ser apresentado novamente.**  
 
 1 - ler dados da disciplina  
 2 - mostrar os dados da disciplina  
