@@ -1,4 +1,4 @@
-#Cadastro de Disciplina
+# Cadastro de Disciplina
 
 Fazer um programa para ler os dados de uma disciplina e mostra-los novamente
 
@@ -21,7 +21,7 @@ class xyz{
   }
 }
 
-#Entrada
+# Entrada
   A entrada de dados contem os valores que o usuário digitaria, na seguinte ordem:
   1. Codigo (inteiro)
   2. Nome (String)
@@ -32,7 +32,7 @@ class xyz{
   7. Nota 1 (real - double)
   8. Nota 2(real - double)
 
-#Saída
+# Saída
 A saída deve ser mostrado o nome do campo, seguindo de espacos (para completar 10 casas), dois pontos, espaço e o valor. Tanto a nota1, nota2 e media devem ser escritos com 2 casas decimais.
 o codigo deve ter 4 digitos e com zeros a esquerda. Os dois pontos devem estar alinhados conforme mostrado abaixo. 
  
