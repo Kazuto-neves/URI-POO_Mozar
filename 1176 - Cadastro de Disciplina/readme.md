@@ -11,7 +11,7 @@ Calculo da media = (nota1 + 2.0*nota2)/3.0
 Exemplo de Struct C#
 
 class xyz{  
-<p>public struct Pessoa{</p>  
+public struct Pessoa{  
 public string nome;  
 public double peso,altura;  
 public int idade;  
