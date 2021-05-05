@@ -10,18 +10,20 @@ Calculo da media = (nota1 + 2.0*nota2)/3.0
 
 Exemplo de Struct C#
 
+~~~C#
 class xyz{  
-public struct Pessoa{
-public string nome;  
-public double peso,altura;  
-public int idade;  
-}  
+  public struct Pessoa{
+   public string nome;  
+   public double peso,altura;  
+   public int idade;  
+ }  
 
-public static void Main(){  
-{  
-.....  
+ public static void Main(){  
+ {  
+  .....  
+ }  
 }  
-}  
+~~~
 
 ## Entrada
 A entrada de dados contem os valores que o usuário digitaria, na seguinte ordem:
@@ -35,8 +37,9 @@ A entrada de dados contem os valores que o usuário digitaria, na seguinte ordem
 8. Nota 2(real - double)
 
 ## Saída
-A saída deve ser mostrado o nome do campo, seguindo de espacos (para completar 10 casas), dois pontos, espaço e o valor. Tanto a nota1, nota2 e media devem ser escritos com 2 casas decimais. O codigo deve ter 4 digitos e com zeros a esquerda. Os dois pontos devem estar alinhados conforme mostrado abaixo. 
+ A saída deve ser mostrado o nome do campo, seguindo de espacos (para completar 10 casas), dois pontos, espaço e o valor. Tanto a nota1, nota2 e media devem ser escritos com 2 casas decimais. O codigo deve ter 4 digitos e com zeros a esquerda. Os dois pontos devem estar alinhados conforme mostrado abaixo. 
  
+ ~~~
 Codigo    : 0001  
 Nome      : Eu mesmo  
 Professor : Professor Xavier  
@@ -46,3 +49,4 @@ Semestre  : 1
 Nota1     : 7.50  
 Nota2     : 6.12  
 Media     : 6.58  
+~~~
