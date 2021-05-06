@@ -5,11 +5,11 @@ Fazer um programa para ler os dados de uma disciplina e mostra-los novamente.
 O programa deve mostrar um menu de opções com 3 opcoes: ler dados da disciplina, mostrar os dados da disciplina e sair. Os dados da disciplina são: codigo: inteiro, Nome:string, Professor: string, Creditos: inteiro, Ano: Inteiro, Semestre: inteiro, Nota1: double e Nota 2: double.   
 A média é calculada usando a nota1 e a nota2, nota 1 com peso 1 e nota 2 com peso 2  
 
-calculo da media = (nota1 + 2.0 \* nota2)/3.0
+*Calculo da media = (nota1 + 2.0 \* nota2)/3.0*
 
-**Obs: pode usar struct para representar a disciplina**
+**Obs: pode usar struck para representar a disciplina**   
 
-Exemplo de Struct C#
+Exemplo de Struct C#
 
 ~~~C#
 class xyz{
