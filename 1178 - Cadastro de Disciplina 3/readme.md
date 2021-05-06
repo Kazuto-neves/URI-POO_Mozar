@@ -35,10 +35,10 @@ Primeiro mostra-se o menu, e depois depende da opção que o usuário escolher
 
 mostra o menu de opções: "1 - inicializar", "inserir nova disciplina", "" e "4 - sair".OBS: Caso seja digitado um numero inválido, menor que 1 ou maior que 3, o menu deverá ser apresentado novamente.
 
-1. inicializar
-2. inserir nova disciplina
-3. listar historico
-4. sair
+1 - inicializar  
+2 - inserir nova disciplina  
+3 - listar historico  
+4 - sair  
 Entre com a sua opcao:
 
 ## Inicializar
